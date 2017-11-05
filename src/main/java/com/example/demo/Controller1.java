@@ -6,14 +6,6 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
-/*
-    http://localhost:8080/wydatki/
-    http://localhost:8080/dodajWydatek.html
-    http://localhost:8080/wydatki/addget?name=Pieczarki&price=500&type=Zywnosc
-    http://localhost:8080/wydatki?kategoria=Domowe
-*/
-
-
 @Controller
 public class Controller1 {
 
